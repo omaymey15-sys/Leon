@@ -1,5 +1,6 @@
 package com.myschoolocr.app.ui.screens
 
+import androidx.compose.ui.unit.dp
 import android.graphics.Bitmap
 import android.graphics.Matrix
 import androidx.camera.core.*
