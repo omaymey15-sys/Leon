@@ -93,7 +93,7 @@ dependencies {
     implementation("androidx.camera:camera-view:1.3.4")
 
     // OCR 100% embarqué (offline dès le premier lancement, aucun JNI à écrire soi-même)
-    implementation("cz.adaptech.tesseract4android:tesseract4android:4.6.0")
+    implementation("cz.adaptech.tesseract4android:tesseract4android:4.9.0")
 
     // Prétraitement d'image (redressement, détection de couleur) — publié sur Maven
     // Central directement par OpenCV depuis la 4.9.x, inclut les .so natifs embarqués.
